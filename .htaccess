@@ -1,3 +1,4 @@
 Order deny, allow
 Deny from all
 Allow from localhost
+Allow from wizmaksim.github.com
